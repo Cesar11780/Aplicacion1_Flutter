@@ -1,0 +1,10 @@
+^C:\USERS\ULTRO\ONEDRIVE\ESCRITORIO\UTXJ\CREACIÓN DE VIDEO JUEGOS\PRACTICA01_180017\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/windows" "-BC:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/build/windows" --check-stamp-file "C:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

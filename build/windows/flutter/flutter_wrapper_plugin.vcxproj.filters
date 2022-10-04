@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7C2D2D2-BAE3-3FB7-BA5A-CF6885BDEFDE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3F619110-6F57-328D-8980-1433B120E515}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

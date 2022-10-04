@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\build\windows\CMakeFiles\a89d077563c1da15a702b98c022aed6f\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\build\windows\CMakeFiles\2040e170819ab7cf52b0333e7e41d680\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7C2D2D2-BAE3-3FB7-BA5A-CF6885BDEFDE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

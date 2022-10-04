@@ -1,0 +1,28 @@
+^C:\USERS\ULTRO\ONEDRIVE\ESCRITORIO\UTXJ\CREACIÓN DE VIDEO JUEGOS\PRACTICA01_180017\BUILD\WINDOWS\CMAKEFILES\A89D077563C1DA15A702B98C022AED6F\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017" "FLUTTER_TARGET=C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\ultro\OneDrive\Escritorio\UTXJ\Creación de Video Juegos\Practica01_180017\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ULTRO\ONEDRIVE\ESCRITORIO\UTXJ\CREACIÓN DE VIDEO JUEGOS\PRACTICA01_180017\BUILD\WINDOWS\CMAKEFILES\2040E170819AB7CF52B0333E7E41D680\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ULTRO\ONEDRIVE\ESCRITORIO\UTXJ\CREACIÓN DE VIDEO JUEGOS\PRACTICA01_180017\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/windows" "-BC:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/build/windows" --check-stamp-file "C:/Users/ultro/OneDrive/Escritorio/UTXJ/Creación de Video Juegos/Practica01_180017/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
